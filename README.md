@@ -40,7 +40,6 @@ CheatsheetCarbonTemplate    # The root of git repo
 .  |- Makefile
 .  |- MyProject.tex
 .  |- Section01.tex
-.  |- Reference.bib
 |- .gitignore
 |- .gitmodules
 |- init.sh
