@@ -1,6 +1,6 @@
 # CheatsheetCarbonTemplate
 
-CheatsheetCarbonTemplate是一个开箱即用的LaTeX模板，适用于A4复习提纲，基于自定义文档类`cheatsheet-carbon`和自定义宏包`minimus`。
+CheatsheetCarbonTemplate是一个开箱即用的LaTeX模板，适用于复习提纲，基于自定义文档类`cheatsheet-carbon`和自定义宏包`minimus`。
 
 CheatsheetCarbonTemplate是LumosLaTeX计划的一部分：https://github.com/liyuxuan3003/LumosLaTeX
 
@@ -28,9 +28,9 @@ cd CheatsheetCarbonTemplate
 项目的目录结构如下
 
 ```
-CheatsheetCarbonTemplate # The root of git repo
+CheatsheetCarbonTemplate    # The root of git repo
 |- .git
-|- MyProject            # The sub dir of source files (run make here!)
+|- MyProject                # The sub dir of source files (run make here!)
 .  |- build/
 .  |- makefile-latex/
 .  |- minimus/
