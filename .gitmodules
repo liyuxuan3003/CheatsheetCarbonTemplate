@@ -1,20 +1,20 @@
-[submodule "CheatsheetCarbon/cheatsheet-carbon"]
+[submodule "CheatsheetCarbon"]
 	path = CheatsheetCarbon/cheatsheet-carbon
 	url = git@Lithium:LaTeX/CheatsheetCarbon.git
 	branch = dev
-[submodule "CheatsheetCarbon/minimus"]
+[submodule "Minimus"]
 	path = CheatsheetCarbon/minimus
 	url = git@Lithium:LaTeX/Minimus.git
 	branch = dev
-[submodule "CheatsheetCarbon/standalone-silicon"]
+[submodule "StandaloneSilicon"]
 	path = CheatsheetCarbon/standalone-silicon
 	url = git@Lithium:LaTeX/StandaloneSilicon.git
 	branch = dev
-[submodule "CheatsheetCarbon/makefile-latex"]
+[submodule "MakefileLaTeX"]
 	path = CheatsheetCarbon/makefile-latex
 	url = git@Lithium:LaTeX/MakefileLaTeX.git
 	branch = dev
-[submodule "CheatsheetCarbon/pyjool"]
+[submodule "PyJool"]
 	path = CheatsheetCarbon/pyjool
 	url = git@Lithium:LaTeX/PyJool.git
 	branch = dev
