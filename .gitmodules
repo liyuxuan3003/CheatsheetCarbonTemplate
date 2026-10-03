@@ -1,20 +1,20 @@
-[submodule "CheatsheetCarbon/cheatsheet-carbon"]
+[submodule "CheatsheetCarbon"]
 	path = CheatsheetCarbon/cheatsheet-carbon
 	url = git@github.com:liyuxuan3003/CheatsheetCarbon.git
 	branch = master
-[submodule "CheatsheetCarbon/minimus"]
+[submodule "Minimus"]
 	path = CheatsheetCarbon/minimus
 	url = git@github.com:liyuxuan3003/Minimus.git
 	branch = master
-[submodule "CheatsheetCarbon/standalone-silicon"]
+[submodule "StandaloneSilicon"]
 	path = CheatsheetCarbon/standalone-silicon
 	url = git@github.com:liyuxuan3003/StandaloneSilicon.git
 	branch = master
-[submodule "CheatsheetCarbon/makefile-latex"]
+[submodule "MakefileLaTeX"]
 	path = CheatsheetCarbon/makefile-latex
 	url = git@github.com:liyuxuan3003/MakefileLaTeX.git
 	branch = master
-[submodule "CheatsheetCarbon/pyjool"]
+[submodule "PyJool"]
 	path = CheatsheetCarbon/pyjool
 	url = git@github.com:liyuxuan3003/PyJool.git
 	branch = master
